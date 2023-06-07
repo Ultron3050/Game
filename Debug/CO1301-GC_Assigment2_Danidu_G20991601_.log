@@ -1,0 +1,6 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  CO1301-GC_Assigment2_Danidu_G20991601_.cpp
+C:\Other\TL lanchhsss\CO1301-GC_Assigment2_Danidu_G20991601_\CO1301-GC_Assigment2_Danidu_G20991601_.cpp(191,37): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+C:\Other\TL lanchhsss\CO1301-GC_Assigment2_Danidu_G20991601_\CO1301-GC_Assigment2_Danidu_G20991601_.cpp(109,6): warning C4101: 'CarSpeed': unreferenced local variable
+  CO1301-GC_Assigment2_Danidu_G20991601_.vcxproj -> C:\Other\TL lanchhsss\CO1301-GC_Assigment2_Danidu_G20991601_\CO1301-GC_Assigment2_Danidu_G20991601_Debug.exe
+  Copying DLLs & shaders...
